@@ -1,0 +1,4 @@
+﻿  Exercitii.cpp
+D:\POO\Lab1_2\Exercitii\Exercitii\Exercitii.cpp(28,13): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\POO\Lab1_2\Exercitii\Exercitii\Exercitii.cpp(30,13): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  Exercitii.vcxproj -> D:\POO\Lab1_2\Exercitii\Debug\Exercitii.exe
